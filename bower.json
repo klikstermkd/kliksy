@@ -1,0 +1,19 @@
+{
+  "name": "kliksy",
+  "version": "0.0.0",
+  "authors": [
+    "Aleksandar Jovanov <ace92bt@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "famous-flex": "~0.1.9",
+    "famous-lagometer": "~0.0.7"
+  }
+}
